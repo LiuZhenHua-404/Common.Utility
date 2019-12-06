@@ -104,9 +104,6 @@ namespace Common.Utility
 			}
 			return result;
 		}
-
-
-
     }
 
     /// <summary>
@@ -130,8 +127,6 @@ namespace Common.Utility
            new Font(new FontFamily("Comic Sans MS"), 10 + Random.Next(1),FontStyle.Regular)
         };
         #endregion
-
-      
 
         #region constructor
         /// <summary>
@@ -195,7 +190,6 @@ namespace Common.Utility
         }
 
 		#endregion
-
 
 		#region private funcation
 
